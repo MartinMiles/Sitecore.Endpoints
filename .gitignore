@@ -1,0 +1,17 @@
+[Oo]bj/
+src/**/[Bb]in/
+.nuget/
+_ReSharper.*
+*.user
+*.cache
+*.suo
+*.sln.ide
+.vs
+/node_modules
+.vscode
+*.log
+*.zip
+*.user.config
+*.user.js
+*.user.targets
+packages/
